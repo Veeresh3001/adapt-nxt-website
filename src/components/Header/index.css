@@ -1,0 +1,29 @@
+
+.header-main{
+    padding: 6px 20px;
+    display: flex;
+    height: 9vh;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-logo-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100px;
+}
+.header-avator-card{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.logo{
+    width: 50px;
+}
+.avator{
+    width: 50px;
+    border-radius: 50%;
+}

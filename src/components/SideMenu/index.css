@@ -1,0 +1,30 @@
+.side-main{
+    width: 16%;
+    height: 86vh;
+    /* background-color: rgb(245, 250, 253); */
+    padding: 10px 0px 0px 20px;
+}
+
+.side-menu{
+    list-style-type: none;
+    padding: 0px;
+}
+.icon{
+    margin-right: 8px;
+}
+.link{
+    text-decoration: none;
+    color: rgb(45, 45, 46);
+    display: flex;
+    align-items: center;
+}
+.side-menu-item{
+    cursor: pointer;
+    padding: 6px;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.order{
+    background-color: #b4dff0;
+}
